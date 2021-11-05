@@ -426,6 +426,13 @@ Saya ${botname} Yg Siap Membantu Anda Dalam Kinerja Whatsapp Agar Mempermudah Se
 │ あ ${prefix}bc
 │ あ ${prefix}report
 └⬣`
+
+╭─⬣「 SEWA BOT 」⬣
+│ あ 5K  = 1 MINGGU
+│ あ 10K = 1 BULAN
+│ あ 15K = PERMANEN
+│ あ KETIK # OWNER JIKA INGIN SEWA BOT TERIMAKASIH
+└⬣`
 teks =
 `Ini Base Buatan Zero YT7 Silahkan Di Pake Jika Ingin Recode Atau Reupload Tolong Creator Jangan Hpus Tolong Hargai Karya Orang 🙏`
 but = [
@@ -452,6 +459,7 @@ timestamp = speed();
 *┃◗ Thank To Ortu*
 *┃◗ Thank To Zero YT7 (Creator)*
 *┃◗ Thanks To All Subscriberku*
+*┃◗ Thanks To Kagetstore (Creator)*
 *┗━━━━━━━ •*`
                   but = [
           { buttonId: `${prefix}owner`, buttonText: { displayText: 'OWNER' }, type: 1 },
